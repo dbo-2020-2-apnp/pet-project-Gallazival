@@ -39,7 +39,6 @@
   "editor.formatOnPaste": true,
   "editor.lineNumbers": "off",
   "workbench.activityBar.visible": true,
-  "workbench.sideBar.location": "right",
   "editor.renderWhitespace": "boundary",
   "editor.renderControlCharacters": true,
 }
