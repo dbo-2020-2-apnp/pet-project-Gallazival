@@ -28,6 +28,9 @@ img {
 }
 body {
   background-image: url("Background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   margin: 0 auto;
   padding: 0 60px 60px 60px;
 }
