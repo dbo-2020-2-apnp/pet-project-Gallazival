@@ -1,3 +1,33 @@
-.azul {
-  color: blue;
+h1{
+  color: slateblue;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 35px;
+  text-align: center;
+}
+h2{
+  color: midnightblue;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+}
+p{
+  color: darkslategrey;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 17px;
+}
+a:hover {
+  background-color: lightsteelblue;
+}
+dd{
+  color: darkslategrey;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 17px;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+body {
+  background-image: url("Background.jpg");
+  margin: 0 auto;
+  padding: 0 60px 60px 60px;
 }
