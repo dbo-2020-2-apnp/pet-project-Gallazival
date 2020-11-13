@@ -9,18 +9,21 @@ h2{
   font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
 }
-ul{
+table{
+  margin: 1em;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1.5em;
   text-align: center;
   width: 100%;
 }
-li{
+th{
   color: darkslategray;
   display: inline;
   padding: 15px;
+  border: 1px solid;
+  border-color: ;
 }
-li:hover {
+th:hover {
   background-color: lightsteelblue;
 }
 a:hover {
