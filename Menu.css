@@ -11,15 +11,15 @@ h2{
   text-align: center;
 }
 div{
-  background-color: lightgray;
-  opacity: 0.5;
+  background-color: rgba(151, 184, 196, 0.568);
   margin: 1em;
   margin-left: 21em;
   margin-right: 21em;
   padding: 10px;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
-  text-align: center;
+  display: flex;
+  justify-content: center;
 }
 img {
   display: block;
@@ -37,5 +37,8 @@ body {
   background-size: cover;
   background-attachment: fixed;
   margin: 0 auto;
+  padding: 0;
 }
-
+* {
+  box-sizing: border-box;
+}
